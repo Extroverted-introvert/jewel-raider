@@ -692,7 +692,7 @@ scene.setBackgroundImage(img`
     cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
     `)
 music2()
-game.showLongText("Journey through 10 acion packed levels collecting all the jewels in each. Press A to start", DialogLayout.Bottom)
+game.showLongText("Journey through 10 action packed levels collecting all the jewels in each. Press A to start", DialogLayout.Bottom)
 info.setLife(5)
 levelnum = 1
 jewelnum = 0
